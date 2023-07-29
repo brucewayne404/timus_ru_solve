@@ -6,7 +6,7 @@ int main()
     long long n, i, j, m = 0, sum = 0;
     cin >> n;
     if(n == 0){
-        cout << 0;
+        cout << 10;
         return 0;
     }
     if(n == 1){
